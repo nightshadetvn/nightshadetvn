@@ -1,3 +1,5 @@
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=nightshadetvn&show_icons=true)
+
 - 👋 Hi, I’m @Max
 - 👀 I’m interested in making websites
 - 🌱 I’m currently learning css and javascript
