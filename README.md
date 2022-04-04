@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript and Python**
 
-- ✨ I'm also flulent at **C#**
+- ✨ I'm also fluent at **C#**
 
 - 📫 How to reach me **mmax3163@gmail.com**
 
