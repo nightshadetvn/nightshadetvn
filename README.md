@@ -9,11 +9,12 @@
 
 - ✨ I'm also fluent at **C#**
 
-- 📫 How to reach me **mmax3163@gmail.com**
-
 - ⚡ Fun fact **I think I'm funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 - Via Discord : rudy2#5560
+</p>
+<p align="left">
+-Via Email : mmax3163@gmail.com
 </p>
