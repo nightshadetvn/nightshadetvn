@@ -15,7 +15,7 @@
 <p align="left">
 - Via Discord : 
 </p>
-https://dcbadge.vercel.app/api/shield/801762101923676171
+![discord]https://dcbadge.vercel.app/api/shield/801762101923676171
 <p align="left">
 -Via Email : mmax3163@gmail.com
 </p>
