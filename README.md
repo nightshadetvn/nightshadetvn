@@ -3,6 +3,7 @@
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=nightshadetvn&show_icons=true)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nightshadetvn.nightshadetvn&left_color=green&right_color=red)
+![](https://dcbadge.vercel.app/api/shield/801762101923676171)
 - 🔭 I’m currently working on [Qwarzu Bottu, mine and my friend's discord bot](https://github.com/DeltaWither/Qwarzu-botto)
 
 - 🌱 I’m currently learning **JavaScript and Python**
@@ -13,9 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- Via Discord : 
+- Via Discord : rudy2#5560
 </p>
-![](https://dcbadge.vercel.app/api/shield/801762101923676171)
 <p align="left">
 -Via Email : mmax3163@gmail.com
 </p>
