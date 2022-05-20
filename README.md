@@ -2,8 +2,8 @@
 <h3 align="center">I am a passionate developer from Poland</h3>
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=nightshadetvn&show_icons=true)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nightshadetvn.nightshadetvn&left_color=green&right_color=red)
 ![](https://dcbadge.vercel.app/api/shield/801762101923676171)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nightshadetvn.nightshadetvn&left_color=green&right_color=red)
 - 🔭 I’m currently working on [Qwarzu Bottu, mine and my friend's discord bot](https://github.com/DeltaWither/Qwarzu-botto)
 
 - 🌱 I’m currently learning **JavaScript and Python**
