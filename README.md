@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">I am a passionate developer from Poland</h3>
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=nightshadetvn&show_icons=true)
 
