@@ -4,7 +4,11 @@
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=nightshadetvn&show_icons=true)
 ![](https://dcbadge.vercel.app/api/shield/801762101923676171)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nightshadetvn.nightshadetvn&left_color=green&right_color=red)
+
+
 - 🔭 I’m currently working on [Qwarzu Bottu, mine and my friend's discord bot](https://github.com/DeltaWither/Qwarzu-botto)
+
+- 📚 I'm also working on [MaciejOS, an operating system that's a tribute to my IT teacher](https://github.com/nightshadetvn/MaciejOS-CSharp)
 
 - 🌱 I’m currently learning **JavaScript and Python**
 
